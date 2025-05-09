@@ -20,22 +20,22 @@ Each file in `output/` is a JSON profile exported directly from EasyEffects via:
   Tailored to bring a more spacious sound signature to this warm, mid-focused earbud. Harman-style EQ applied to elevate treble clarity and sub-bass extension.
 
 - **FAAEAL Rosemary**
-  Warm IEMs adjusted for clarity — profile enhances vocal presence and tightens bass, with subtle treble gain for sparkle without harshness.
+  Warm IEMs adjusted for clarity. The profile enhances vocal presence and tightens bass, with subtle treble gain for sparkle without harshness.
 
 - **Sennheiser HD 599**
-  Open-back headphones with laid-back mids and rolled-off treble — this profile adds sub-bass and upper treble correction for a more neutral Harman-like curve.
+  Open-back headphones with laid-back mids and rolled-off treble. This profile adds sub-bass and upper treble correction for a more neutral Harman-like curve.
 
 - **Koss Porta Pro**
-  Classic warm bass-heavy signature — EQ compensates with a reduction in mid-bass and a gentle lift in mids/treble to align with Harman tonality.
+  Classic warm bass-heavy signature. EQ compensates with a reduction in mid-bass and a gentle lift in mids/treble to align with Harman tonality.
 
 - **Koss Porta Pro (Yaxi)**
   Same as above but tuned for Yaxi pads, which alter the frequency response; adjustments focus on treble smoothness and slightly deeper sub-bass.
 
 - **Tanchjim Zero**
-  Already quite close to Harman out of the box — minor EQ adjustments smooth the upper mids and correct for slight 8–10 kHz brightness depending on tips.
+  Already quite close to Harman out of the box. Some minor EQ adjustments smooth the upper mids and correct for slight 8–10 kHz brightness depending on tips.
 
 - **Virtuoso RGB**
-  Gaming headset EQ’d for a more reference-style tonality — midrange cleaned up for dialogue clarity, bass tamed slightly, and treble balanced to reduce fatigue during long sessions.
+  Gaming headset EQ’d for a more reference-style tonality. Midrange cleaned up for dialogue clarity, bass tamed slightly, and treble balanced to reduce fatigue during long sessions.
 
 
 ## Usage
